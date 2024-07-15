@@ -1,0 +1,33 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/*css do chuck norris*/
+
+
+nav {
+    background-color: white;
+    font-style: oblique;
+    font-size: 30px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    height: 60px;
+    
+
+ 
+
+}
+nav a {
+    color: rgba(233, 102, 14, 0.911);
+    
+ 
+}
+
+body {
+    background-image: url(imagens/chuck.jpg);
+   background-repeat: no-repeat;
+   background-size: cover;
+}

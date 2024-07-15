@@ -8,11 +8,9 @@
 </head>
 <body>
     <nav>
-<a href="atores.php" >Atores</a>
-<a href="">STAR WARS</a>
-<a href="personagens.php">Personagens</a>
+<a href="inicio.php">CHUCK NORRIS</a>
+<a href="piadas.php">PIADAS</a>
 
-
-    </nav>
+ </nav>
     
 </html>

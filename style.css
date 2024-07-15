@@ -6,10 +6,10 @@
 }
 
 
-
+/*css do chuck e jokes*/
 
 nav {
-    background-color: black;
+    background-color: white;
     font-style: oblique;
     font-size: 30px;
     display: flex;
@@ -22,12 +22,51 @@ nav {
 
 }
 nav a {
-    color: rgba(231, 231, 21, 0.911);
+    color: rgba(233, 102, 14, 0.911);
+    
  
 }
 
 body {
-    background-image: url(imagens/Star-wars-logo-new-tall.webp);
+    background-image: url(imagens/chuck5.jpg);
    background-repeat: no-repeat;
    background-size: cover;
 }
+
+
+h1{
+    font-size: 40px;
+   
+    color: white;
+    font-style: oblique;
+    
+}
+.chuck{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    align-items: center;
+    margin-top: 80px;
+    flex-direction: column;
+   
+}
+
+.letra{
+   color: white;
+    font-size: 30px;
+}
+.piada{
+    color: white;
+    font-size:40px;
+}
+
+.butao {
+    margin-top: 30px;
+    font-size: 20px;
+    border-radius: 20px;
+   
+    
+  
+}
+
+ 
