@@ -1,0 +1,33 @@
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+
+
+nav {
+    background-color: black;
+    font-style: oblique;
+    font-size: 30px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    height: 60px;
+    
+
+ 
+
+}
+nav a {
+    color: rgba(231, 231, 21, 0.911);
+ 
+}
+
+body {
+    background-image: url(imagens/Star-wars-logo-new-tall.webp);
+   background-repeat: no-repeat;
+   background-size: cover;
+}
